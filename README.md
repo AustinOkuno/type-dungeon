@@ -28,8 +28,7 @@ Plain HTML, CSS and JavaScript. There's no framework, no build step and no serve
 
 ```
 index.html              the page itself: layout and buttons, plus links to the files below
-css/
-  style.css             all the styling: colors, layout, animations
+styles.css              all the styling: colors, layout, animations
 js/
   storage.js            saving settings and scores in the browser
   settings.js           themes, fonts, defaults, and applying them to the page
