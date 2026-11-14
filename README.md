@@ -2,6 +2,10 @@
 
 A cozy typing-speed game that runs in your browser. Type the words, watch your WPM and accuracy, and beat your personal best.
 
+**▶ Play it now: [austinokuno.github.io/type-dungeon](https://austinokuno.github.io/type-dungeon/)**
+
+> **Early prototype.** This is the first version of Type Dungeon and the starting point for a bigger project. Expect things to change as it grows.
+
 ## Features
 
 - **Three modes:** timed (15/30/60/120s), word count (10/25/50/100), and quotes
@@ -10,9 +14,17 @@ A cozy typing-speed game that runs in your browser. Type the words, watch your W
 - **Personal bests and daily stats** saved in your browser
 - **Make it yours:** six themes, custom colors, fonts, caret styles, key sounds, CRT scanlines, and your own wallpaper (drag any image onto the page)
 
+## Planned
+
+Ideas for where this goes next (not promises, and the order may change):
+
+- Background music and more key sounds
+- More stats: progress over time and your weakest keys
+- More word lists and quotes
+
 ## How to play
 
-Open `index.html` in any modern browser and start typing.
+Play it at the link above, or open `index.html` in any modern browser, and start typing.
 
 | Key | Action |
 | --- | --- |
